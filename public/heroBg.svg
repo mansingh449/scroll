@@ -1,0 +1,47 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_7639)">
+<mask id="mask0_2_7639" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="1080">
+<g clip-path="url(#clip1_2_7639)">
+<rect width="1173" height="1440" transform="matrix(0 -1 1 0 0 1007)" fill="url(#paint0_radial_2_7639)"/>
+</g>
+</mask>
+<g mask="url(#mask0_2_7639)">
+<g clip-path="url(#clip2_2_7639)">
+<path d="M220 0V1080" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M470 0V1080" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M720 0V1080" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M970 0V1080" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M1220 0V1080" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M0 40L1440 40" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M0 290L1440 290" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M0 540L1440 540" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M0 790L1440 790" stroke="#D4D4D4" stroke-width="0.75"/>
+<path d="M970.09 536V540M970.09 544V540M970.09 540H974M970.09 540H966" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1220.09 536V540M1220.09 544V540M1220.09 540H1224M1220.09 540H1216" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720.09 536V540M720.09 544V540M720.09 540H724M720.09 540H716" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.09 536V540M470.09 544V540M470.09 540H474M470.09 540H466" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220.09 536V540M220.09 544V540M220.09 540H224M220.09 540H216" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M970.09 786V790M970.09 794V790M970.09 790H974M970.09 790H966" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1220.09 786V790M1220.09 794V790M1220.09 790H1224M1220.09 790H1216" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720.09 786V790M720.09 794V790M720.09 790H724M720.09 790H716" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.09 786V790M470.09 794V790M470.09 790H474M470.09 790H466" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220.09 786V790M220.09 794V790M220.09 790H224M220.09 790H216" stroke="#262626" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_2_7639" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(586.5 720) rotate(90) scale(720 586.5)">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_2_7639">
+<rect width="1440" height="960" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2_7639">
+<rect width="962" height="1440" fill="white" transform="matrix(0 -1 1 0 0 962)"/>
+</clipPath>
+<clipPath id="clip2_2_7639">
+<rect width="1440" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "name": "pr-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build:dev": "NODE_ENV=development next build",
+    "build:prod": "NODE_ENV=production next build",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.10",
+    "@portabletext/react": "^3.2.1",
+    "@sanity/client": "^7.8.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.5",
+    "gsap": "^3.13.0",
+    "html2pdf.js": "^0.10.3",
+    "lucide-react": "^0.511.0",
+    "motion": "^12.23.5",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-select": "^5.10.2",
+    "react-slick": "^0.30.3",
+    "recharts": "^2.15.4",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-slick": "^0.23.13",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.0",
+    "prettier": "^3.6.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
